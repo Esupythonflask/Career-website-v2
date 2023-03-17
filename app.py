@@ -28,6 +28,7 @@ JOBS = [
   'location': 'Bahirdar, Ethiopia',
   'Salary': 'ETB. 55,000' 
 } 
+  
 ]
 @app.route("/")
 def hello_world():
