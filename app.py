@@ -7,7 +7,7 @@ JOBS = [
 'id': 1,
 'title': 'Data Analyst',
   'location': 'Addis Ababa, Ethiopia',
-  'Salary': 'ETB. 25,000' 
+  'Salary': 'ETB. 225,000' 
 },
   {
 
@@ -20,13 +20,19 @@ JOBS = [
   'id': 4,
 'title': 'Frontend Engineer',
   'location': 'Gondar, Ethiopia',
-  'Salary': 'ETB. 20,000' 
+  'Salary': 'ETB. 120,000' 
 },
   {
 'id': 3,
 'title': 'Backend Engineer',
   'location': 'Bahirdar, Ethiopia',
-  'Salary': 'ETB. 55,000' 
+  'Salary': 'ETB. 155,000' 
+},
+  {
+'id': 5,
+'title': 'Quality Assurance Tester',
+  'location': 'London, United Kingdom',
+  'Salary': '£67,000' 
 } 
   
 ]
